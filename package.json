@@ -1,0 +1,18 @@
+{
+  "name": "stringsplosion",
+  "version": "1.0.0",
+  "description": "a class that contains a manipulate() method which when invoked returns the sploded version of the argument supplied",
+  "main": "StringSplosion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phemmz"
+  },
+  "keywords": [
+    "stringSplosion"
+  ],
+  "author": "Adetunji Femi <phemmzmcllroy@gmail.com>",
+  "license": "ISC"
+}
